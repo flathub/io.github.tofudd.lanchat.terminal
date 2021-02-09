@@ -37,7 +37,7 @@
       "build-commands": [
       	"/usr/lib/sdk/dotnet5/enable.sh",
         "dotnet publish -c Release --source ../nuget-sources Lanchat.Terminal/Lanchat.Terminal.csproj --runtime $RUNTIME --self-contained true",
-        "cp -r --remove-destination /run/build/Lanchat/Lanchat.Terminal/bin/Release/net5.0/$RUNTIME/publish/ /app/bin/",
+        "cp -r --remove-destination /run/build/Lanchat/Lanchat.Terminal/bin/Release/net5.0/$RUNTIME/publish/* /app/bin/",
         "install -D Lanchat.Terminal/Flatpak/io.github.tofudd.lanchat.terminal.svg /app/share/icons/hicolor/128x128/apps/io.github.tofudd.lanchat.terminal.svg",
         "install -D Lanchat.Terminal/Flatpak/io.github.tofudd.lanchat.terminal.desktop /app/share/applications/io.github.tofudd.lanchat.terminal.desktop",
         "install -D Lanchat.Terminal/Flatpak/io.github.tofudd.lanchat.terminal.metainfo.xml /app/share/metainfo/io.github.tofudd.lanchat.terminal.metainfo.xml"

@@ -53,7 +53,8 @@
           "url": "https://github.com/tofudd/lanchat.git",
           "tag": "master"
         },
-        "sources.json"
+        "sources.json",
+        "runtime_sources.json"
       ]
     }
   ]

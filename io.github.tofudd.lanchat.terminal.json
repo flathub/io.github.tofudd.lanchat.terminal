@@ -50,7 +50,7 @@
       "sources": [
         {
           "type": "git",
-          "url": "https://github.com/tofudd/lanchat.git",
+          "url": "https://github.com/tof4/lanchat.git",
           "tag": "master"
         },
         "sources.json"

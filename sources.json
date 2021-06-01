@@ -29,6 +29,20 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/5.0.1/system.text.encodings.web.5.0.1.nupkg",
+        "sha512": "38882decc30afbec02c46617e0216762b179f578fe0927461852c27b2db4e21afff670655b5bb07e414eacf6ef87f064387cbce73c8768ffadad33b8998d2d84",
+        "dest": "nuget-sources",
+        "dest-filename": "system.text.encodings.web.5.0.1.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg",
+        "sha512": "68052086e77d3c7198737a3da163d67740b7c44f93250c39659b3bf21b6547a9abf64cbf40481f5c78f24361af3aaf47d52d188b371554a0928a7f7665c1fc14",
+        "dest": "nuget-sources",
+        "dest-filename": "system.threading.tasks.extensions.4.5.4.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg",
         "sha512": "fa00ebb5045d12c51274f64411c551981beceb1266a8606a4731063109b95ea1f15939197bf3d2ba899db61e593dc39bfce876908bba34286823525093ae3d8e",
         "dest": "nuget-sources",
@@ -43,20 +57,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/5.0.1/system.text.encodings.web.5.0.1.nupkg",
-        "sha512": "38882decc30afbec02c46617e0216762b179f578fe0927461852c27b2db4e21afff670655b5bb07e414eacf6ef87f064387cbce73c8768ffadad33b8998d2d84",
-        "dest": "nuget-sources",
-        "dest-filename": "system.text.encodings.web.5.0.1.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.buffers/4.5.1/system.buffers.4.5.1.nupkg",
-        "sha512": "80da6158e55b9bcf7e0b5e6379b9cf45a632914f037b53c5bf5609576e3cd7821f7861956b73d74470d2d0c2e56dd235a5ef4ca6ffe7e192b820dc2d023aaff2",
-        "dest": "nuget-sources",
-        "dest-filename": "system.buffers.4.5.1.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg",
         "sha512": "cea6febc03e3ddd6fc8ad31ebe92fc3f7134f81cc1fef8fb079ec3cd72f8a31120e836c8c39bf16109abd2253919371e2462b9570a2fd6525ad9dfd1f9929a28",
         "dest": "nuget-sources",
@@ -64,10 +64,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg",
-        "sha512": "68052086e77d3c7198737a3da163d67740b7c44f93250c39659b3bf21b6547a9abf64cbf40481f5c78f24361af3aaf47d52d188b371554a0928a7f7665c1fc14",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.buffers/4.5.1/system.buffers.4.5.1.nupkg",
+        "sha512": "80da6158e55b9bcf7e0b5e6379b9cf45a632914f037b53c5bf5609576e3cd7821f7861956b73d74470d2d0c2e56dd235a5ef4ca6ffe7e192b820dc2d023aaff2",
         "dest": "nuget-sources",
-        "dest-filename": "system.threading.tasks.extensions.4.5.4.nupkg"
+        "dest-filename": "system.buffers.4.5.1.nupkg"
     },
     {
         "type": "file",
@@ -85,10 +85,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/netcoreserver/5.0.15/netcoreserver.5.0.15.nupkg",
-        "sha512": "eab2629f9d3cb91b547234393df42246d917be993ee1f1c028791858764998df096aa5312e8febd01e5acf21385f5aeb242d97d19fb3e2b5f602e56c7bbcc4a0",
+        "url": "https://api.nuget.org/v3-flatcontainer/netcoreserver/5.0.18/netcoreserver.5.0.18.nupkg",
+        "sha512": "f882bd045ec20a29dface39eb5c092337fb7d8295f183d26af916612353731d869cd5636a0e42205b37e4da386c63878e8f7053070857c3197b751b53899cd58",
         "dest": "nuget-sources",
-        "dest-filename": "netcoreserver.5.0.15.nupkg"
+        "dest-filename": "netcoreserver.5.0.18.nupkg"
     },
     {
         "type": "file",

@@ -41,7 +41,7 @@
         "dest": "nuget-sources",
         "dest-filename": "microsoft.netcore.app.runtime.linux-x64.5.0.5.nupkg"
     },
-    {
+        {
         "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/autofac/6.2.0/autofac.6.2.0.nupkg",
         "sha512": "de535ed485c98c10d0096e366643c3e85c2946948c412db76c14499980b9757be9f12f007bd8a45ff35840735684934adad440764f00f73be9e9d4b187e4d857",
@@ -57,10 +57,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/netcoreserver/5.0.18/netcoreserver.5.0.18.nupkg",
-        "sha512": "f882bd045ec20a29dface39eb5c092337fb7d8295f183d26af916612353731d869cd5636a0e42205b37e4da386c63878e8f7053070857c3197b751b53899cd58",
+        "url": "https://api.nuget.org/v3-flatcontainer/netcoreserver/5.1.0/netcoreserver.5.1.0.nupkg",
+        "sha512": "d0cc51067934802392491eaee60e47db91fa05eeb5d846655380946f2d9a0098c33795ebfd0da06754f1624ebf9adfaf49c763f87dc1b4f3f7747cad77c3c518",
         "dest": "nuget-sources",
-        "dest-filename": "netcoreserver.5.0.18.nupkg"
+        "dest-filename": "netcoreserver.5.1.0.nupkg"
     },
     {
         "type": "file",
@@ -78,9 +78,9 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/consolegui/1.3.0/consolegui.1.3.0.nupkg",
-        "sha512": "8fcdb07c4f05d6364a012e9f93cc560677cace885abc2665fa030153c3ade915b29c1fcbb96388f7147e2e44f2b78fdcadcdd8f97a24b4795e4a817ab8a1b12d",
+        "url": "https://api.nuget.org/v3-flatcontainer/consolegui/1.4.1/consolegui.1.4.1.nupkg",
+        "sha512": "cedde8ce10755cb237dac6ac3bb07166559f74e8f5b246ca1720e3531a4b1c4a3371bf883d0cbf68e707d7be3584e25298b236f2bf89db51951db1b997f69700",
         "dest": "nuget-sources",
-        "dest-filename": "consolegui.1.3.0.nupkg"
+        "dest-filename": "consolegui.1.4.1.nupkg"
     }
 ]

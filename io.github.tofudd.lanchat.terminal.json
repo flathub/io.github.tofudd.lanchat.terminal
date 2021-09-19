@@ -4,7 +4,7 @@
   "runtime-version": "21.08",
   "sdk": "org.freedesktop.Sdk",
   "sdk-extensions": [
-    "org.freedesktop.Sdk.Extension.dotnet5/{architecture}/21.08"
+    "org.freedesktop.Sdk.Extension.dotnet5"
   ],
   "finish-args": [
     "--share=network",

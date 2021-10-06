@@ -51,7 +51,7 @@
         {
           "type": "git",
           "url": "https://github.com/tof4/lanchat.git",
-          "tag": "master"
+          "tag": "main"
         },
         "sources.json"
       ]

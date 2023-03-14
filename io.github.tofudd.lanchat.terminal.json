@@ -3,10 +3,6 @@
   "runtime": "org.freedesktop.Platform",
   "runtime-version": "21.08",
   "sdk": "org.freedesktop.Sdk",
-  {
-    "end-of-life": "The application has been renamed to pl.youkai.lanchat",
-    "end-of-life-rebase": "pl.youkai.lanchat"
-  },
   "sdk-extensions": [
     "org.freedesktop.Sdk.Extension.dotnet6"
   ],
